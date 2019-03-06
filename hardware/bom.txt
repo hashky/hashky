@@ -1,0 +1,5 @@
+5x 2 prong SMT tact switches TS-1236
+1x atmel atsha204, SOT23 form factor
+1x resistor 0805 4.7kohm-10kohm
+1x hashky hat board(included in this git)
+1x arduino CJMCU-beetle style board.(there is a similar board with a different pinout but same form factor, see manual)
